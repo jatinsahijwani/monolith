@@ -8,4 +8,4 @@ template Simple() {
     c <== a + b;
 }
 
-component main = Simple();
+component main = Simple();%     
